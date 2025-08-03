@@ -32,7 +32,7 @@ export const template = {
 }
 
 export const seo = {
-	default_title: 'Jhoan',
+	default_title: 'Jhoan David Pillapa Llerena | Data Analyst',
 	default_description: 'Jhoan David Pillapa Llerena | Data Analyst',
 	default_image: '/images/astro-academia.png',
 }
