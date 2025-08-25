@@ -1,5 +1,19 @@
 export const experiences = [
 	{
+		company: 'Telefónica Ecuador',
+		time: 'January, 2025 - present',
+		title: 'Network Quality Management Engineer',
+		location: 'Quito - Ecuador',
+		description: '',
+	},
+	{
+		company: 'INEC'	,
+		time: 'May, 2023 - July 2023',
+		title: ' IT Support Analyst',
+		location: 'Ambato',
+		description: '',
+	},
+	{
 		company: '',
 		time: '',
 		title: '',
@@ -17,11 +31,11 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
-		location: '',
-		description: '',
+		school: 'ESPOCH',
+		time: '2016 - 2022',
+		degree: 'Electronic, Telecomunications and Networks Engineer',
+		location: 'Riobamba - Ecuador',
+		description: 'Graduated at the top of my class',
 	},
 	// {
 	// 	school: 'University of Paris',
@@ -34,7 +48,7 @@ export const education = [
 
 export const skills = [
 	{
-		title: '',
+		title: 'Python',
 		description: '',
 	},
 	// {
