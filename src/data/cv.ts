@@ -7,9 +7,30 @@ export const experiences = [
 		description: '',
 	},
 	{
+		company: 'IEEE Student Branch - ESPOCH',
+		time: 'August - 2024',
+		title: 'Instructor of "Linux Essentials"',
+		location: 'Riobamba',
+		description: '',
+	},
+	{
 		company: 'INEC'	,
 		time: 'May, 2023 - July 2023',
 		title: ' IT Support Analyst',
+		location: 'Ambato',
+		description: '',
+	},
+	{
+		company: 'GICI - ESPOCH',
+		time: 'April, 2022 - October, 2022',
+		title: 'Collaborating Research',
+		location: 'Riobamba',
+		description: '',
+	},
+	{
+		company: 'GRUPO INTECH CÍA. LTDA',
+		time: 'October, 2021 - February, 2022 ',
+		title: 'Technical',
 		location: 'Ambato',
 		description: '',
 	},
@@ -35,7 +56,7 @@ export const education = [
 		time: '2016 - 2022',
 		degree: 'Electronic, Telecomunications and Networks Engineer',
 		location: 'Riobamba - Ecuador',
-		description: 'Graduated at the top of my class',
+		description: 'Best Graduate',
 	},
 	// {
 	// 	school: 'University of Paris',
@@ -51,6 +72,15 @@ export const skills = [
 		title: 'Python',
 		description: '',
 	},
+	{
+		title: 'Power BI',
+		description: '',
+	},
+	{
+		title: 'Linux',
+		description: '',
+	},
+
 	// {
 	// 	title: 'Experimental Techniques',
 	// 	description: 'Spectroscopy, Isolation of Radioactive Elements, Radiation Measurement',
